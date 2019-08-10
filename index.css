@@ -1,0 +1,73 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: blue;
+}
+
+header {
+	background: black;
+	width: auto;
+	height: auto;
+	padding: 20px;
+	
+}
+
+.profile {
+	width: 50px;
+	height: 50px;
+	border-radius: 360px;
+	border-color: white;
+	border-style: solid;
+}
+
+.profilecenter {
+	width: 300px;
+	height: 300px;
+	border-radius: 360px;
+	border-color: white;
+	border-style: solid;
+	margin: 20px;
+	margin-top: 100px;
+}
+
+.headerfront {
+	font-family: Segoe Ui;
+	color: white;
+	margin-top: 100px;
+	
+}
+
+.log {
+	width: 302px;
+	height: 577px;
+}
+
+.lilog {
+	display: inline;
+	float: left;
+}
+
+#centerintro {
+	font-size: 20px;
+	padding: 25px;
+	border-radius: 20px;
+	background-color: #9c9999;
+	width: auto;
+	height: auto;
+	font-family: Segoe UI;
+	margin: 100px;
+}
+
+.apc {
+	margin-left: 200px;
+	width: 50%;
+	height: 200px;
+	text-align: center;
+}
+
+p {
+	padding: 20px;
+	margin: 20px;
+	font-family: Segoe UI;
+	font-size: 25px;
+}
