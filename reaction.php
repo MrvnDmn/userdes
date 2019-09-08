@@ -139,5 +139,47 @@ entire site.
 	  </div>
     </div>
 </div>
+ <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          Reaction #5: SoCIT Fest
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+	  The SoCIT Fest was, well, it was a bit boring. Almost every fest at APC greets the student on the first day with a decorated ground floor,
+	  but during the first day some were just beginning to decorate the ground floor. The SoCIT fest was filled with seminars, and I know some people really
+	  hate seminars. I kinda feel bad for some of the speakers during the seminar the happened in the auditorium, because some students left early and it almost
+	  emptied the auditorium. The SoCIT fest, thought it had some fun events, like the UI Design competition, which I forgot to join, it really was forgettable for some 
+	  of the 2nd year students. I don't know for the first year students, which I know had more events. The SoCIT fest in its entirety, was boring and if I would give it 
+	  a rating it would be 5/10 
+	  </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+          Reaction #6: First Half of User Design
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+	  For the first half of User Design it was definitely now what I wanted it to be. Coming in to User Design class, I thought that we would learn the basics
+	  of GUI which was something that was not taught to us the previous year. So being able to apply that would be benefitial to us.
+	  
+	  The challenge was really adjusting back to HTML, I've used HTML before, it was the language that got me into programming but I haven't used in about 2 years.
+	  So I had to learn all the basics and what some of the tags do and what some of the CSS functions were. It was fun learning all of it again.
+	  
+	  For the final half of User Design I expect it to be more challenging because we have to finish up our project. One more challenge is the paper, because almost
+	  every subject during our term requires us to create a research paper of a project. The addition of one more researh paper would be a challenge especially if me and my 
+	  group are having trouble with our topic.
+      </div>
+	</div>
+</div>
+ 
 </body>
 </html>
